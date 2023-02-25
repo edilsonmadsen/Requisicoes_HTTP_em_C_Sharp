@@ -1,0 +1,10 @@
+C:\Users\Madsen\source\repos\HTTP\HTTP\bin\Debug\HTTP.exe.config
+C:\Users\Madsen\source\repos\HTTP\HTTP\bin\Debug\HTTP.exe
+C:\Users\Madsen\source\repos\HTTP\HTTP\bin\Debug\HTTP.pdb
+C:\Users\Madsen\source\repos\HTTP\HTTP\obj\Debug\HTTP.csproj.AssemblyReference.cache
+C:\Users\Madsen\source\repos\HTTP\HTTP\obj\Debug\HTTP.csproj.CoreCompileInputs.cache
+C:\Users\Madsen\source\repos\HTTP\HTTP\obj\Debug\HTTP.exe
+C:\Users\Madsen\source\repos\HTTP\HTTP\obj\Debug\HTTP.pdb
+C:\Users\Madsen\source\repos\HTTP\HTTP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Madsen\source\repos\HTTP\HTTP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Madsen\source\repos\HTTP\HTTP\obj\Debug\HTTP.csproj.CopyComplete
